@@ -19,6 +19,14 @@
     3. Open PyCharm after installation.
     4. Set up a new project or import an existing one.
 
+# Writing a Code in Pycharm
+
+1. Launch Pycharm
+2. Create a New Project
+3. Specify required location to save the project in local
+4. Create a Directory
+5. Add a Python File in directory (File Extension .py)
+
 # Python Topics That You will Learn
 
 1. Comments
